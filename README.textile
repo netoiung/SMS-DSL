@@ -1,0 +1,19 @@
+h1. An Eclipse editor for Cucumber feature definitions based on Xtext.
+
+The editor provides syntax highlighting, syntax validation (and some code completions) for cucumber features definitions in Eclipse. 
+
+!http://sebastianbenz.github.com/xgherkin/images/Example.png(Screenshot)!
+
+h2. Installation
+
+The editor can be installed via the following update site:
+
+http://sebastianbenz.github.com/xgherkin/updates
+
+h2. Dependencies
+
+[Xtext 2.2.1](http://www.eclipse.org/Xtext/download/)
+
+h2. License
+
+Copyright (C) 2010 Sebastian Benz. Distributed under the Eclipse Public License.
